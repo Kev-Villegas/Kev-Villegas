@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Back-End**
 
-- 👨‍💻 All of my projects are available at <a href="https://personal-portfolio-alpha-henna.vercel.app/">Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://personal-portfolio-alpha-henna.vercel.app/" target="_blank">Portfolio</a>
 
 - 💬 Ask me about **React.js**
 
