@@ -1,5 +1,5 @@
 <img align="center" width="1000" height="325" alt="Coding" src="https://media2.giphy.com/media/l4EpkVLqUj8BI7OV2/giphy.gif?cid=ecf05e47lvfhzjea63v8rcedkc15w5v7ykztq8xxmhzhiusy&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-<h1 align="center">Hi 👋, I'm Kevin Villegas</h1>
+<h1 align="center">Hi 👋, I'm Kevin Villegas</h1> 
 <h3 align="center">A Passionate Front-End Developer From Argentina</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmMxMWh6ajcyOGJkYTZheWFrZTdkbTA0NTNtcTJiNzh6YXp6c2pmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dLolp8dtrYCJi/giphy.gif"/>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kevin.villegas1973@gmail.com**
 
-- ⚡ Fun fact **I think im a fanboy of Mr Robot**
+- ⚡ Fun fact **I Think Im A Fanboy Of Mr Robot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
