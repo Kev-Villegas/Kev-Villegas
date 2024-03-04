@@ -1,22 +1,23 @@
-<h1 align="center">Hi 👋, I'm Kevin Villegas</h1> 
+<img align="center" width="1000" height="325" alt="Coding" src="https://media2.giphy.com/media/l4EpkVLqUj8BI7OV2/giphy.gif?cid=ecf05e47lvfhzjea63v8rcedkc15w5v7ykztq8xxmhzhiusy&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<h2 align="center">Hi 👋, I'm Kevin Villegas</h2> 
 <h3 align="center">A Passionate Front-End Developer From Argentina</h3>
 <img align="right" alt="Coding" width="225" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemUxYnkyY2lzbXBrM3o4dnQxa2JkM3d3emk3MDZva3FjMXZxZDBucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W3klTgJuKy5vymEoe7/giphy.gif"/>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kev-villegas&label=Profile%20views&color=0e75b6&style=flat" alt="kev-villegas" /> </p>
 
-<h2 align="left">💫 About Me</h2>
+<h3 align="left">💼 About Me</h3>
 
 🌱 Currently delving into Back-End development.
 
-👨‍💻 Explore my projects on my Portfolio.
+👨‍💻 Explore my projects on my <a href="https://personal-portfolio-alpha-henna.vercel.app" target="blank">
+Portfolio
+</a>
 
 💬 Feel free to ask me about React.JS / Next.JS.
 
 📫 Reach out to me at kevin.villegas1973@gmail.com.
 
-⚡ Fun fact: I’m a self-proclaimed Mr.Robot Fanboy!
+⚡ Fun fact: I’m a self-proclaimed Mr. Robot Fanboy!
 
 <h2 align="left">Connect With Me</h2>
 <p align="left">
@@ -39,7 +40,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line-wordmark.svg" height="30" alt="Next.js"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-plain.svg" height="30" alt="Next.js"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"  />
   <img width="12" />
@@ -47,17 +48,13 @@
 </div>
 
 
-  <h2 align="left">📊 GitHub Stats:</h2>
-![](https://github-readme-stats.vercel.app/api?username=Kev-Villegas&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kev-Villegas&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kev-Villegas&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kev-Villegas&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Kev-Villegas&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kev-Villegas&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kev-Villegas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Kev-Villegas&icon=0&color=5)](https://visitcount.itsvg.in)
-
 
 
 
