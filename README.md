@@ -9,7 +9,7 @@
 
 🌱 Currently delving into Back-End development.
 
-👨‍💻 Explore my projects on my <a href="https://personal-portfolio-alpha-henna.vercel.app" target="blank">
+👨‍💻 Explore my projects on my <a href="https://personal-portfolio-alpha-henna.vercel.app" target="_blank">
 Portfolio
 </a>
 
@@ -21,9 +21,8 @@ Portfolio
 
 <h2 align="left">Connect With Me</h2>
 <p align="left">
-<a href="https://linkedin.com/in/kevin--villegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin--villegas" height="30" width="40" /></a>
-<a href="https://www.behance.net/kevinvillegas1973/appreciated" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kevin--villegas" height="30" width="40" /></a>
-
+<a href="https://linkedin.com/in/kevin--villegas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin--villegas" height="30" width="40" /></a>
+<a href="https://www.behance.net/kevinvillegas1973/appreciated" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kevin--villegas" height="30" width="40" /></a>
 </p>
 
 <div align="left">
