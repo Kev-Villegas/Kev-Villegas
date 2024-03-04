@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kev-villegas&label=Profile%20views&color=0e75b6&style=flat" alt="kev-villegas" /> </p>
 
-- 🌱 I’m currently learning **Back-End**
+🌱 Currently delving into Back-End development.
 
-- 👨‍💻 All of my projects are available at <a target="_blank" href="https://personal-portfolio-alpha-henna.vercel.app/">Portfolio</a>
+👨‍💻 Explore my projects on my Portfolio.
 
-- 💬 Ask me about **React.js**
+💬 Feel free to ask me about React.JS / Next.JS.
 
-- 📫 How to reach me **kevin.villegas1973@gmail.com**
+📫 Reach out to me at kevin.villegas1973@gmail.com.
 
-- ⚡ Fun fact **I Think Im A Fanboy Of Mr Robot**
+⚡ Fun fact: I’m a self-proclaimed Mr. Robot fanboy!
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
