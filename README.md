@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kev-villegas&label=Profile%20views&color=0e75b6&style=flat" alt="kev-villegas" /> </p>
 
-# 💫 About Me:
+💫 About Me:
 
 🌱 Currently delving into Back-End development.
 
