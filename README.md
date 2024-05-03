@@ -7,7 +7,7 @@
 
 <h3 align="left">💼 About Me</h3>
 
-🌱 Currently delving into Back-End development.
+🌱 Currently learning Back-End to become a Full-Stack Developer.
 
 👨‍💻 Explore my projects on my <a href="https://personal-portfolio-alpha-henna.vercel.app" target="_blank">
 Portfolio
