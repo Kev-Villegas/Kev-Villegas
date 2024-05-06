@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kev-villegas&label=Profile%20views&color=0e75b6&style=flat" alt="kev-villegas" /> </p>
 
-<h3 align="left">💼 About Me</h3>
+<h3 align="left"> 💼 About Me </h3>
 
 🌱 Currently learning Back-End to become a Full-Stack Developer.
 
@@ -19,7 +19,7 @@ Portfolio
 
 ⚡ Fun fact: I’m a self-proclaimed Mr. Robot Fanboy!
 
-<h2 align="left"> 📬 Connect With Me</h2>
+<h2 align="left"> 📬 Connect With Me </h2>
 <p align="left">
 <a href="https://linkedin.com/in/kevin--villegas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin--villegas" height="30" width="40" /></a>
 <a href="https://www.behance.net/kevinvillegas1973/appreciated" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kevin--villegas" height="30" width="40" /></a>
