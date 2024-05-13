@@ -15,7 +15,7 @@ Portfolio
 
 💬 Feel free to ask me about React.JS / Next.JS.
 
-📫 Reach out to me at kevin.villegas1973@gmail.com.
+📫 Reach out to me at kevin.villegas1973@gmail.com
 
 ⚡ Fun fact: I’m a self-proclaimed Mr. Robot Fanboy!
 
