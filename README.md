@@ -13,7 +13,7 @@
 Portfolio
 </a>
 
-💬 Feel free to ask me about React.JS / Next.JS.
+💬 Feel free to ask me about React.js and Next.js
 
 📫 Reach out to me at kevin.villegas1973@gmail.com
 
