@@ -1,6 +1,4 @@
-<img align="center" width="1000" height="325" alt="Coding" src="https://media2.giphy.com/media/l4EpkVLqUj8BI7OV2/giphy.gif?cid=ecf05e47lvfhzjea63v8rcedkc15w5v7ykztq8xxmhzhiusy&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-<h2 align="center">Hi 👋, I'm Kevin Villegas</h2> 
-<h3 align="center">A Passionate Front-End Developer From Argentina</h3>
+<h1 align="center"> Hi 👋, I'm Kevin Villegas <br />A Passionate Front-End Developer From Argentina </h1> 
 <img align="right" alt="Coding" width="225" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemUxYnkyY2lzbXBrM3o4dnQxa2JkM3d3emk3MDZva3FjMXZxZDBucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W3klTgJuKy5vymEoe7/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kev-villegas&label=Profile%20views&color=0e75b6&style=flat" alt="kev-villegas" /> </p>
