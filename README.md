@@ -7,7 +7,7 @@
 
 🌱 Currently learning Back-End to become a Full-Stack Developer.
 
-👨‍💻 Explore my projects on my <a href="https://personal-portfolio-alpha-henna.vercel.app" target="_blank">
+👨‍💻 Explore my projects on my <a href="https://freelancer-portfolio-kappa.vercel.app/" target="_blank">
 Portfolio
 </a>
 
