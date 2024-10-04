@@ -15,7 +15,7 @@ Portfolio
 
 📫 Reach out to me at kevin.villegas1973@gmail.com
 
-⚡ Fun fact: I’m a self-proclaimed Mr. Robot Fanboy!
+⚡ Fun fact: I’m a self-proclaimed Mr. Robot Fanboy :3
 
 <h2 align="left"> 📬 Connect With Me </h2>
 <p align="left">
