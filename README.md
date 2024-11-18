@@ -5,7 +5,7 @@
 
 <h3 align="left"> 💼 About Me </h3>
 
-🌱 Currently learning Back-End to become a Full-Stack Developer.
+🌱 I'm Currently learning Back-End to become a Full-Stack Developer.
 
 👨‍💻 Explore my projects on my <a href="https://freelancer-portfolio-kappa.vercel.app/" target="_blank">
 Portfolio
