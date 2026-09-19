@@ -50,7 +50,7 @@ Portfolio!
 </div>
 
 <div align="left">
-   <h2 align="left"> ⚙️ A Little More About My Profile </h2>
+   <h2 align="left"> ⚙️ A Little More About My Profile :3 </h2>
 
    ![](https://github-readme-streak-stats.herokuapp.com/?user=Kev-Villegas&theme=radical&hide_border=false)<br/>
 
