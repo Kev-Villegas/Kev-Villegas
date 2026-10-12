@@ -1,64 +1,25 @@
-<h1 align="center"> Hi 👋, I'm Kevin Villegas <br />A Front-End Developer From Argentina </h1> 
-<img align="right" alt="Coding" width="225" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemUxYnkyY2lzbXBrM3o4dnQxa2JkM3d3emk3MDZva3FjMXZxZDBucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W3klTgJuKy5vymEoe7/giphy.gif"/>
+# Kevin Villegas
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kev-villegas&label=Profile%20views&color=0e75b6&style=flat" alt="kev-villegas" /> </p>
+Full-stack developer · TypeScript, Next.js, PostgreSQL · Neuquén, Argentina (UTC−3) · remote
 
-<h3 align="left"> 💼 About Me </h3>
+I build web applications end to end: interface, API and database. Open to full-time roles, worldwide.
 
-🌱 I'm Currently learning Back-End to become a Full-Stack Developer.
+[Portfolio](https://www.kevcode.com.ar) · [CV (PDF)](https://www.kevcode.com.ar/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/kevin--villegas/) · [kevin.villegas1973@gmail.com](mailto:kevin.villegas1973@gmail.com)
 
-👨‍💻 Explore my projects on my <a href="https://freelancer-portfolio-kappa.vercel.app/" target="_blank">
-Portfolio!
-</a>
+## Selected work
 
-💬 Feel free to ask me about React.js and Next.js
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [pixel-point-ecommerce](https://github.com/Kev-Villegas/pixel-point-ecommerce) | Online store with Mercado Pago payments for an electronics shop in Argentina. Signed webhooks, idempotent order updates, admin dashboard, Playwright tests. | Next.js, TypeScript, Prisma, PostgreSQL, NextAuth v5 |
+| Restaurant SaaS | Reservations system with a public booking page, guest portal and staff dashboard. Authorization inside every server action, rate limits that fail closed. Case study on my [portfolio](https://www.kevcode.com.ar). | Next.js, TypeScript, Drizzle, PostgreSQL, Redis |
+| Chat platform | A large Discord-style chat platform, in progress. | — |
 
-📫 Reach out to me at kevin.villegas1973@gmail.com
+## Stack
 
-⚡ Fun fact: I’m a self-proclaimed Mr. Robot Fanboy :3
+**Core** TypeScript · React · Next.js · Node.js · PostgreSQL · Tailwind CSS
+**Working** Vue 3 · Prisma · Drizzle · Redis · Auth.js · Zod · Playwright · GitHub Actions
+**Learning** Docker · AWS
 
-<h2 align="left"> 📬 Connect With Me </h2>
-<p align="left">
-<a href="https://linkedin.com/in/kevin--villegas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin--villegas" height="30" width="40" /></a>
-</p>
+## Languages
 
-<div align="left">
-  <h2 align="left"> 🛠 Tech Stack </h2>
-  <h3 align="left"> 💻 Front-End </h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
-  <img width="12" />
-
-  <h3 align="left"> ⚙️ Back-End </h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-plain.svg" height="30" alt="Next.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="30" alt="Prisma" />
-  <img width="12" />
-</div>
-
-<div align="left">
-   <h2 align="left"> ⚙️ A Little More About My Profile :3 </h2>
-
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=Kev-Villegas&theme=radical&hide_border=false)<br/>
-
-   ![](https://github-readme-stats.vercel.app/api?username=Kev-Villegas&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kev-Villegas&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
-
-
-
-
+English C1 · Portuguese C1 · Spanish (native)
